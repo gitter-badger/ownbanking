@@ -4,7 +4,7 @@
   "description": "OwnBanking, Integration without intermediaries",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-cli"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ownbanking/ownbanking/issues"
   },
-  "homepage": "https://github.com/ownbanking/ownbanking#readme"
+  "homepage": "https://github.com/ownbanking/ownbanking#readme",
+  "devDependencies": {
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  }
 }
