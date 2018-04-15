@@ -1,0 +1,19 @@
+{
+  "name": "ownbanking",
+  "version": "0.0.0",
+  "description": "OwnBanking, Integration without intermediaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ownbanking/ownbanking.git"
+  },
+  "author": "Alejandro Mery",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ownbanking/ownbanking/issues"
+  },
+  "homepage": "https://github.com/ownbanking/ownbanking#readme"
+}
