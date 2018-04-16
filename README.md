@@ -1,5 +1,7 @@
 # OwnBanking, Integration without Intermediaries
 
+[![Join the chat at https://gitter.im/ownbanking/ownbanking](https://badges.gitter.im/ownbanking/ownbanking.svg)](https://gitter.im/ownbanking/ownbanking?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Motivation
 
 Existing aggregators ask you to trust them _unconditionally_.
